@@ -23,8 +23,7 @@ SCHEMA_SERVICE = "slm/schema/%s"
 AUTH_ENDPOINT  = "security/authorize"
 WS_API_VERSION = "v2.0"
 
-USER_NAME = "wiley@acme.com"
-PASSWORD  = "G3ronim0!"
+
 
 START_INDEX  =   1
 MAX_PAGESIZE = 500
